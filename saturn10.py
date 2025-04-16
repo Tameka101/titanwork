@@ -1,3 +1,0 @@
-Telesto
-Ymir
-Daphnis
